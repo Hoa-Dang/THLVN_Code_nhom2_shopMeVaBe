@@ -1,0 +1,28 @@
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\#dulieu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BanHang.resources

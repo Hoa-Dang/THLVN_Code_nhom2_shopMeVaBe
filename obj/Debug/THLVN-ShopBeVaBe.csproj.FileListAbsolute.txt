@@ -1,0 +1,10 @@
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\THLVN-ShopBeVaBe.csprojResolveAssemblyReference.cache
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BanHang.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\THLVN-ShopBeVaBe.csproj.GenerateResource.Cache
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
