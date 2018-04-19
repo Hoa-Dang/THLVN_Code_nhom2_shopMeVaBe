@@ -9,3 +9,14 @@ D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\
 D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\THLVN-ShopMeVaBe.csproj.GenerateResource.Cache
 D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MatHang.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.pdb
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\bin\Debug\WindowsFormsApplication1.exe
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\bin\Debug\WindowsFormsApplication1.pdb
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\THLVN-ShopMeVaBe.csprojResolveAssemblyReference.cache
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.BanHang.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.FormLogin.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.MatHang.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DangNhap-LamViecNhom\DangNhap-LamViecNhom\thlvn_CODE_nhom2\obj\Debug\THLVN-ShopMeVaBe.csproj.GenerateResource.Cache

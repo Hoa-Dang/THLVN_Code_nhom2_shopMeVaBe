@@ -73,6 +73,13 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.buttonCreate = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.GiaVon = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TonKho = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nhaCungCap = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.buttonSearch = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -81,13 +88,6 @@
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.GiaVon = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TonKho = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nhaCungCap = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgBangGia)).BeginInit();
@@ -558,6 +558,56 @@
             this.dataGridView1.Size = new System.Drawing.Size(809, 377);
             this.dataGridView1.TabIndex = 10;
             // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.DataPropertyName = "maHang";
+            this.dataGridViewTextBoxColumn1.HeaderText = "Mã Hàng";
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.dataGridViewTextBoxColumn1.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.DataPropertyName = "tenHang";
+            this.dataGridViewTextBoxColumn2.HeaderText = "Tên Hàng";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.dataGridViewTextBoxColumn2.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.DataPropertyName = "giaBan";
+            this.dataGridViewTextBoxColumn3.HeaderText = "Giá Bán";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            this.dataGridViewTextBoxColumn3.ReadOnly = true;
+            // 
+            // GiaVon
+            // 
+            this.GiaVon.DataPropertyName = "giaVon";
+            this.GiaVon.HeaderText = "Giá Vốn";
+            this.GiaVon.Name = "GiaVon";
+            this.GiaVon.ReadOnly = true;
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.DataPropertyName = "soLuong";
+            this.dataGridViewTextBoxColumn4.HeaderText = "Số Lượng";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            this.dataGridViewTextBoxColumn4.ReadOnly = true;
+            // 
+            // TonKho
+            // 
+            this.TonKho.DataPropertyName = "tonkho";
+            this.TonKho.HeaderText = "Tồn Kho";
+            this.TonKho.Name = "TonKho";
+            this.TonKho.ReadOnly = true;
+            // 
+            // nhaCungCap
+            // 
+            this.nhaCungCap.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.nhaCungCap.DataPropertyName = "tenNhaCungCap";
+            this.nhaCungCap.HeaderText = "Nhà Cung Cấp";
+            this.nhaCungCap.Name = "nhaCungCap";
+            this.nhaCungCap.ReadOnly = true;
+            // 
             // buttonSearch
             // 
             this.buttonSearch.ForeColor = System.Drawing.Color.Black;
@@ -632,56 +682,6 @@
             this.tabPage6.Text = "Báo Cáo";
             this.tabPage6.UseVisualStyleBackColor = true;
             // 
-            // dataGridViewTextBoxColumn1
-            // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "maHang";
-            this.dataGridViewTextBoxColumn1.HeaderText = "Mã Hàng";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "tenHang";
-            this.dataGridViewTextBoxColumn2.HeaderText = "Tên Hàng";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            this.dataGridViewTextBoxColumn2.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "giaBan";
-            this.dataGridViewTextBoxColumn3.HeaderText = "Giá Bán";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            this.dataGridViewTextBoxColumn3.ReadOnly = true;
-            // 
-            // GiaVon
-            // 
-            this.GiaVon.DataPropertyName = "giaVon";
-            this.GiaVon.HeaderText = "Giá Vốn";
-            this.GiaVon.Name = "GiaVon";
-            this.GiaVon.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "soLuong";
-            this.dataGridViewTextBoxColumn4.HeaderText = "Số Lượng";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            this.dataGridViewTextBoxColumn4.ReadOnly = true;
-            // 
-            // TonKho
-            // 
-            this.TonKho.DataPropertyName = "tonkho";
-            this.TonKho.HeaderText = "Tồn Kho";
-            this.TonKho.Name = "TonKho";
-            this.TonKho.ReadOnly = true;
-            // 
-            // nhaCungCap
-            // 
-            this.nhaCungCap.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.nhaCungCap.DataPropertyName = "tenNhaCungCap";
-            this.nhaCungCap.HeaderText = "Nhà Cung Cấp";
-            this.nhaCungCap.Name = "nhaCungCap";
-            this.nhaCungCap.ReadOnly = true;
-            // 
             // BanHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -689,7 +689,7 @@
             this.ClientSize = new System.Drawing.Size(1000, 720);
             this.Controls.Add(this.tabControl1);
             this.Name = "BanHang";
-            this.Text = "Form1";
+            this.Text = "BÁN HÀNG";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();

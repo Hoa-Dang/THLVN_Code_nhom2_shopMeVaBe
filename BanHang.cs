@@ -422,7 +422,7 @@ namespace WindowsFormsApplication1
             while(reader.Read()){
                 foreach (DataRow row in dt.Rows)
                 {
-                    if (row[0] == reader[0])
+                    if (((string)row[0]).Equals((string)reader[0]))
                         row["tonkho"] = (int)row[4] - (int)reader[1];
                 }
             }

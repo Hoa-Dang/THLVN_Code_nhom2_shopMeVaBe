@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace WindowsFormsApplication1
 {
@@ -22,7 +23,8 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             ReadSettings();
-            cnn = new SqlConnection("Data Source=DESKTOP-31FIH19\\HOADANG;Initial Catalog=shopMeVaBe;Integrated Security=True");
+            string connectionString = ConfigurationManager.ConnectionStrings["Conn"].ConnectionString;
+            cnn = new SqlConnection(connectionString);
             cnn.Open();
         }
         private void ReadSettings()
