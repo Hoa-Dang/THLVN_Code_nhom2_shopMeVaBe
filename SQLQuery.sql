@@ -44,7 +44,7 @@ INSERT [dbo].[NhaCungCap] ([maNhaCungCap], [tenNhaCungCap]) VALUES (N'n1   ', N'
 INSERT [dbo].[NhaCungCap] ([maNhaCungCap], [tenNhaCungCap]) VALUES (N'n2   ', N'VINAMILK')
 INSERT [dbo].[NhaCungCap] ([maNhaCungCap], [tenNhaCungCap]) VALUES (N'n3  ', N'DOwNY')
 INSERT [dbo].[Users] ([tenDangNhap], [matKhau], [hoTen], [typeAccount]) VALUES (N'nhanvien1', N'12345', N'Nguyễn Văn A', 0)
-INSERT [dbo].[Users] ([tenDangNhap], [matKhau], [hoTen], [typeAccount]) VALUES (N'nhanvien1', N'12345', N'Nguyễn văn B', 0)
+INSERT [dbo].[Users] ([tenDangNhap], [matKhau], [hoTen], [typeAccount]) VALUES (N'nhanvien2', N'12345', N'Nguyễn văn B', 0)
 INSERT [dbo].[MatHang] ([maHang], [tenHang], [giaVon], [giaBan], [soLuong], [maNhaCungCap]) VALUES (N'sp001', N'Bột giặt', 20000, 23000, 50, N'n1   ')
 INSERT [dbo].[MatHang] ([maHang], [tenHang], [giaVon], [giaBan], [soLuong], [maNhaCungCap]) VALUES (N'sp002', N'Sữa tắm', 29000, 37000, 30, N'n1   ')
 INSERT [dbo].[MatHang] ([maHang], [tenHang], [giaVon], [giaBan], [soLuong], [maNhaCungCap]) VALUES (N'sp003', N'dầu gội', 30000, 35000, 40, N'n1   ')
