@@ -113,11 +113,24 @@ namespace WindowsFormsApplication1
 
         void btnTimKiem_Click(object sender, EventArgs e)
         {
-            String query = "select maHang as [Mã Hàng], tenHang as [Tên Hàng], giaBan as [Giá Bán] from MatHang where maHang= '"+txtTimKiem.Text+"'";
-            SqlDataAdapter adapter = new SqlDataAdapter(query, conn);
-            DataTable table = new DataTable();
-            adapter.Fill(table);
-            dtgBangGia.DataSource = table;
+            String query = "select maHang as [Mã Hàng], tenHang as [Tên Hàng], giaBan as [Giá Bán] from MatHang where maHang like '%" + txtTimKiem.Text + "%' or tenHang like N'%" + txtTimKiem.Text + "%'";
+            cmd = new SqlCommand(query, conn);
+            SqlDataReader re = cmd.ExecuteReader();
+            if (re.Read() == false){
+                lbLoiTimkiem.Text = "Không tìm thấy mặt hàng!";
+                re.Close();
+            }
+               
+            else
+             {
+                 re.Close();
+                 
+                 SqlDataAdapter adapter = new SqlDataAdapter(query, conn);
+                 DataTable table = new DataTable();
+                 adapter.Fill(table);
+                 dtgBangGia.DataSource = table;
+             }
+            
         }
        
 

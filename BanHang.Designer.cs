@@ -32,6 +32,7 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.lbLoiTimkiem = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.btnTimKiem = new System.Windows.Forms.Button();
             this.txtTimKiem = new System.Windows.Forms.TextBox();
@@ -87,7 +88,6 @@
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgBangGia)).BeginInit();
@@ -116,6 +116,7 @@
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.Color.SkyBlue;
+            this.tabPage1.Controls.Add(this.lbLoiTimkiem);
             this.tabPage1.Controls.Add(this.label1);
             this.tabPage1.Controls.Add(this.btnTimKiem);
             this.tabPage1.Controls.Add(this.txtTimKiem);
@@ -128,6 +129,15 @@
             this.tabPage1.Size = new System.Drawing.Size(967, 669);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Bán Hàng";
+            // 
+            // lbLoiTimkiem
+            // 
+            this.lbLoiTimkiem.AutoSize = true;
+            this.lbLoiTimkiem.ForeColor = System.Drawing.Color.Crimson;
+            this.lbLoiTimkiem.Location = new System.Drawing.Point(204, 120);
+            this.lbLoiTimkiem.Name = "lbLoiTimkiem";
+            this.lbLoiTimkiem.Size = new System.Drawing.Size(0, 13);
+            this.lbLoiTimkiem.TabIndex = 5;
             // 
             // label1
             // 
@@ -750,7 +760,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn giaBan;
         private System.Windows.Forms.DataGridViewTextBoxColumn thanhTien;
         private System.Windows.Forms.DataGridViewImageColumn delete;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button buttonCreate;
         private System.Windows.Forms.DataGridView dataGridView1;
@@ -764,6 +773,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private System.Windows.Forms.DataGridViewTextBoxColumn TonKho;
         private System.Windows.Forms.DataGridViewTextBoxColumn nhaCungCap;
+        private System.Windows.Forms.Label lbLoiTimkiem;
     }
 }
 
